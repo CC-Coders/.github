@@ -3,4 +3,4 @@
 ## Team
      - Diogo Fraça
      - Gabriel Persike
-     - Paola
+     - Paola Lucio Rosa
