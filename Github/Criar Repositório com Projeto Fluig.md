@@ -1,15 +1,27 @@
 1 - Criar novo Repositório Local
-![[Pasted image 20250408173102.png]]
+
+![image](https://github.com/user-attachments/assets/5db4ec37-897a-438c-bb85-a46029ed8914)
+
 2 - Nomear repositório e selecionar a Pasta Local
-![[Pasted image 20250408173222.png]]
+
+![image](https://github.com/user-attachments/assets/b290ceee-5dc8-4a1b-a01b-d63de8adbdd6)
+
 3 - Abrir o repositório como Workspace do Eclipse
-![[Pasted image 20250408173318.png]]
+
+![image](https://github.com/user-attachments/assets/aa22e041-9527-4603-9a97-2c44c6dc729f)
+
 4 - Selecionar a perspectiva Fluig Window>Open Perspective>Other>Fluig
-![[Pasted image 20250408173353.png]]
+
+![image](https://github.com/user-attachments/assets/66abbcb9-2cbf-4969-9e44-f1f34806c198)
+
 5 - Criar o Projeto Fluig
-![[Pasted image 20250408173616.png]]
+
+![image](https://github.com/user-attachments/assets/1ccd884b-c2a4-4dbc-a88e-19270fc7c85d)
+
 6 - Mapear os Servidores na aba Servers  - Como cada repositório será um Workspace diferente do Eclipse, será necessário adicionar os servidores a cada novo repositório
-![[Pasted image 20250408174046.png]]
+
+![image](https://github.com/user-attachments/assets/83a992c3-e6f3-48ae-8218-6c1288da5dd1)
+
 
 7 - Incluir no gitignore o código abaixo para não incluir os arquivos no repositório.
 ```
@@ -22,4 +34,5 @@ com.totvs.tds.ecm.dataservers - Mapeamento dos Servers, contem o login e senha d
 *.cache - são os dados do servidor
 
 8 - Realizar o commit e Publicar o repositório no Github
-![[Pasted image 20250408175254.png]]
+
+![image](https://github.com/user-attachments/assets/915570f3-78c1-4fd5-95f0-647aedbe9cbd)
