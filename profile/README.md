@@ -1,6 +1,6 @@
 # CC-Coders
 
 ## Team
-     - Diogo Fraça
+     - Diogo França
      - Gabriel Persike
      - Paola Lucio Rosa
