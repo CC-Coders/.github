@@ -6,4 +6,4 @@
      - Paola Lucio Rosa
 
 ## Gitflow - Em construção
-![image](https://github.com/user-attachments/assets/6276db7c-d8bf-43df-84e7-901af30cac50)
+![image](https://github.com/user-attachments/assets/ef772ba7-cee7-4965-9efe-ad1c34187f5c)
