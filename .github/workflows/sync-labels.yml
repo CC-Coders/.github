@@ -1,0 +1,21 @@
+name: Sync Labels
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *' # Runs daily at 03:00 UTC
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Sync labels
+        uses: EndBug/label-sync@v2
+        with:
+          config-file: '.github/labels.yml'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
